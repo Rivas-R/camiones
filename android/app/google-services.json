@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "825243621147",
+    "firebase_url": "https://camiones-2027-default-rtdb.firebaseio.com",
+    "project_id": "camiones-2027",
+    "storage_bucket": "camiones-2027.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825243621147:android:3eee7f4474751a40b125be",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFWQuHQGgKUHFBSZAp8hteBw2s4aTs5qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
